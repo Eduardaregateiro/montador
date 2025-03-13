@@ -3,8 +3,8 @@ package br.com.wcc.model;
 
 public class Retangulo implements Shape {
 
-    private final base;
-    private final altura;
+    private final Double base;
+    private final Double altura;
 
     public Retangulo (Double base, Double altura) {
         this.base  = base;

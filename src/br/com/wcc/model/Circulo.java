@@ -4,7 +4,7 @@ public class Circulo implements Shape {
     private Double raio;
 
     public Circulo(Double raio) {
-        This.raio = raio;
+        this.raio = raio;
     }
 
 
